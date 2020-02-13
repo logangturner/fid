@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Logan Turner</title> 
+<style>body { background-color: #000000; margin: 0 10%; font-family: helvetica; }h1 { color: #ff6c00; text-align: center; font-family: helvetica; font-weight: bold; text-transform: lowercase; border-bottom: 2px solid #ff6c00; margin-top: 30px;} h2 { color: #ffa500; font-size: 1em; border-bottom: 1px solid #ffa500} h3 { color : #ffd480}
+
+</style>
+</head>
+
+<body>
+<body style="background-color: #f8f8f8;">
+
+<h1><img src="LOGO-01.png" alt="logo"></h1>
+
+<h1>Logan.Turner</h1>
+
+<h2>My Story </h2>
+<p>I began graphic design my sophomore year of highschool and have been attachted to the craft ever since. I have always had a special love for art of all mediums espcially that of digital media and photography. Currently I am copmleting an Associates of Art at Seminole State Collefe of Florida and will soon be transferring to the University of Centeral Florida to complete my Bachelors Degree.
+
+<h2>Experience</h2>
+<p>-Two years on editorial staff of Lake Brantley High School 'Patriots Pride' yearbook.<br> 
+-Freelance graphic design work for Kelly Fantini Bridal, Sidedoor Digitial, and American Consultants.<br>
+-Design consultant for clothing brand start-up, Hammock Joes.</p>
+
+<h2>Certifications</h2>
+<h3>-Adobe</h3>
+<p>-InDesign<br>
+-Photoshop<br>
+-Illustrator</p>
+
+<h3>Microsoft</h3>
+<p>-Word<br>
+-Powerpoint<br>
+-Excel</p>
+
+<h2>Past Projects</h2>
+<h3>Hammock Joes</h3>
+<img src="HammockJoes-05.png" alt="HammockJoes" height="150" width="150">
+<h3>Patriots Pride Yearbook</h3>
+<img src="CoverReplacment.jpg" alt="Cover">
+<img src="DividerSumer.jpg" alt="Summer">
+<img src="EndCopy.jpg" alt="Copy">
+
+
+</meta>
+</body>
+
+</html>
